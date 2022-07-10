@@ -1,7 +1,9 @@
-# hooksReact 
-just a test app for react hooks uiltizing useState,useEffect,useReducer and useRef.
+<html>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"/>
+  <h1> hooksReact </h1>
+  <p1>just a test app for react hooks uiltizing useState,useEffect,useReducer and useRef.</p1>
+  </html>
 
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-view rawheader hosted with ❤ by GitHub
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+
